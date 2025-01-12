@@ -6,7 +6,7 @@ import axios from 'axios';
 // import * as img from './final.png';
 import img from './final.png';
 import { GlitchText } from '../components/GlitchText';
-const API_URL = 'http://34.47.172.253:3001';
+const API_URL = 'http://34.100.203.46:3001';
 
 export default function BetaPage() {
   const [isProcessing, setIsProcessing] = useState(false);
