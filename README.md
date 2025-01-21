@@ -19,7 +19,7 @@ SecureCodeAuditor is an advanced cybersecurity tool designed to protect your cod
    - Deep inspection of code using smart pattern recognition to uncover hidden vulnerabilities and coding flaws.
 
 4. **High Protection**
-   - Continuous monitoring and instant alerts to ensure around-the-clock security for your projects.
+   - Monitoring and alerts to ensure around-the-clock security for your projects.
 
 5. **AI Integration**
    - Machine learning-based threat detection that evolves with emerging attack patterns.
@@ -53,12 +53,7 @@ Join our beta program to test and explore the advanced features of SecureCodeAud
 
 ## **Join the Revolution**
 Secure your code today and stay ahead of potential threats. With SecureCodeAuditor, the power to protect your projects is in your hands.
-
-**Contact Us**
-For more information, feedback, or support, reach out to us at:
-- Email: support@securecodeauditor.com
-- Website: [www.securecodeauditor.com](#)
-
+Launching SOON:)
 ---
 SecureCodeAuditor: The ultimate defense system for your digital infrastructure. **Secure Your Code Before Hackers Do That For U_**.
 
