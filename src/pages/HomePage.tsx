@@ -44,8 +44,8 @@ export default function HomePage() {
               />
           </div>
           <h1 className="text-5xl md:text-7xl lg:text-8xl mb-6 leading-none">
-            <GlitchText text="SeCureCode" className="font-bold tracking-tight block" />
-            <GlitchText text="Auditors" className="font-bold tracking-tight block text-green-500" />
+            <GlitchText text="SecureCode" className="font-bold tracking-tight block" />
+            <GlitchText text="Auditor" className="font-bold tracking-tight block text-green-500" />
           </h1>
           <p className="text-xl md:text-3xl text-green-500/80 typewriter-1 max-w-3xl mx-auto mb-4">
             Scan. Attack. Defend. Secure Your Code
