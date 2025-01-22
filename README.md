@@ -37,13 +37,11 @@ SecureCodeAuditor is an advanced cybersecurity tool designed to protect your cod
 
 ## **Getting Started**
 
-### **System Launch Countdown**
-The SecureCodeAuditor system will officially launch in **10 days, 7 hours, 16 minutes, and 20 seconds**. Be prepared to experience the future of code security.
 
 ### **Beta Access**
 Join our beta program to test and explore the advanced features of SecureCodeAuditor. Experience next-level security for your code before the full launch.
 
-- [Try Out Beta](#)
+
 
 ## **How It Works**
 
